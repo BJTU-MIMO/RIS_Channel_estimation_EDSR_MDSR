@@ -17,13 +17,8 @@ Reconfigurable intelligent surface (RIS) is envisioned as an essential paradigm 
 The package generates the simulation SE results which are used in Figure 6, Figure 7, Figure 8, and Figure 9. To be specific:
 
 - `trainer`: Main function;
-- `functionGenerateR`: Generate spatial correlation matrix and large-scale fading coefficients;
-  - `functionRlocalscattering`: Generate the spatial correlation matrix for the local scattering model;
-- `functionAPselection`: Perform initial access and generate AP selection results;
-- `functionUEgroup`: Perform pilot assignment by using the proposed User-Group scheme;
-- `functionPowerControl`: Perform uplink fractional power control; 
-- `functionChannelEstimates`: Perform MMSE channel estimation;
-- `functionComputeSE_MMSE_pLSFD`: Compute simulation SE results while using LP-MMSE combining and P-LSFD.
+- `functional.py`: the used function in the project;
+- `model/`: Generate the CBDNet Network;
 
 See each file for further documentation.
 
