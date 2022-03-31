@@ -16,9 +16,11 @@ Reconfigurable intelligent surface (RIS) is envisioned as an essential paradigm 
 
 The package generates the simulation SE results which are used in Figure 6, Figure 7, Figure 8, and Figure 9. To be specific:
 
-- `trainer`: Main function;
-- `functional.py`: the used function in the project;
-- `model/`: Generate the CBDNet Network;
+- `main.py`: Main function;
+- `functional.py`: The used function in the project;
+- `model/`: Generate the EDSR or MDSR Network;
+- `option.py`: Parameter modification;
+- `trainer.py`: Procedures for conducting training EDSR and MDSR;
 
 See each file for further documentation.
 
