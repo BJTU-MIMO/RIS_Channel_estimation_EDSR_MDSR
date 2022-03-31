@@ -14,7 +14,7 @@ Reconfigurable intelligent surface (RIS) is envisioned as an essential paradigm 
 
 ## Content of Code Package
 
-The package generates the simulation SE results which are used in Figure 6, Figure 7, Figure 8, and Figure 9. To be specific:
+The package generates the simulation results:
 
 - `main.py`: Main function;
 - `functional.py`: The used function in the project;
