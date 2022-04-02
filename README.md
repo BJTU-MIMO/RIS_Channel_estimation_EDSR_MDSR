@@ -2,7 +2,7 @@
 
 This simulation code package is mainly used to reproduce the results of the following paper [1]:
 
-[1] Y. Jin, J. Zhang, X. Zhang, B. Ai, and D. W. K. Ng, “Channel estimation for reconfigurable intelligent surfaces with enhanced deep residual networks”, to appear, IEEE Trans. Veh. Technol., 2021.
+[1] Y. Jin, J. Zhang, X. Zhang, B. Ai, and D. W. K. Ng, “Channel estimation for reconfigurable intelligent surfaces with enhanced deep residual networks”, IEEE Trans. Veh. Technol., 2021.
 
 If you use this simulation code package in any way, please cite the original paper [1] above. 
 
